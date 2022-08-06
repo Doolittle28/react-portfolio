@@ -12,6 +12,6 @@
 
 ## Screenshot 
 
-![Portfolio](02-Homework/Main/src/assets/projects/reactportfolioscreenshot.png)  
+![Portfolio](/Main/src/assets/projects/reactportfolioscreenshot.png)  
 -Gif of deployed portfolio
 
