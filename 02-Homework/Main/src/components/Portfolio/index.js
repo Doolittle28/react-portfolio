@@ -7,18 +7,21 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: 'Sound Scouter',
+      image: 'soundscouter.png',
       description: 'Javascript',
       link: "https://lnbredemeyer.github.io/sound-scouter-p1/",
       repo: "https://github.com/lnbredemeyer/sound-scouter-p1"
     },
     {
       name: 'Dad Comedy Central',
+      image: 'dadcomedycentral.png',
       description: 'Javascript',
       link: "https://the-dadabase.herokuapp.com/",
       repo: "https://github.com/Skyw41k3r/project-2"
     },
     {
       name: 'Note Taker',
+      image: 'notetaker.png',
       description: 'Javascript',
       link: "https://note-taker-kevin.herokuapp.com/",
       repo: "https://github.com/Doolittle28/note-taker"
